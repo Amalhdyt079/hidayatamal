@@ -1,4 +1,7 @@
+<img src="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/main/github-header-image" width="100%" />
+
 # Hi there 👋
+
 My Github Profil
 ![Hello World](img/github-header-image.png)
 
