@@ -1,9 +1,4 @@
-<img src="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/main/github-header-image" width="100%" />
-
-# Hi there 👋
-
-My Github Profil
-![Hello World](img/github-header-image.png)
+<img src="img/banner.png" alt="Foto Profil" width="" style="border-radius: 5px;" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -22,7 +17,7 @@ My Github Profil
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo" color="white"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="12" />
